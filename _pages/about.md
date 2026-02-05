@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://csds.gsu.edu/'>Georgia State University</a> Ph.D. Student
+subtitle: <a href='https://csds.gsu.edu/'> Georgia State University </a> Ph.D. Student
 
 profile:
   align: right
