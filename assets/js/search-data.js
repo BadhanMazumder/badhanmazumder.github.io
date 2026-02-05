@@ -529,17 +529,24 @@ ninja.data = [{
         },
       },{
         id: 'social-linkedin',
-        title: 'Linkedin',
+        title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("www.linkedin.com/in/badhan-mazumder-7a11a2194", "_blank");
+          window.open("https://www.linkedin.com/in/badhan-mazumder-7a11a2194", "_blank");
         },
       },{
         id: 'social-github',
-        title: 'Github',
+        title: 'GitHub',
         section: 'Socials',
         handler: () => {
-          window.open("github.com/BadhanMazumder", "_blank");
+          window.open("https://github.com/BadhanMazumder", "_blank");
+        },
+      },{
+        id: 'social-researchgate',
+        title: 'ResearchGate',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.researchgate.net/profile/Badhan-Mazumder/", "_blank");
         },
       },{
       id: 'light-theme',
