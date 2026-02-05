@@ -392,8 +392,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-our-paper-on-neural-koopman-fusion-of-structural-functional-connectomes-for-prenatal-drug-exposure-identification-has-been-accepted-in-bhi-2025",
+          title: 'Our paper on neural Koopman fusion of structural–functional connectomes for prenatal drug exposure...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
