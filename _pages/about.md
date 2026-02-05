@@ -27,8 +27,11 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi, I’m Badhan Mazumder. I’m a Ph.D. student in Computer Science at Georgia State University, advised by [Dr. Dong Hye Ye](https://cas.gsu.edu/profile/dong-hye-ye/) and [Dr. Vince D. Calhoun](https://cas.gsu.edu/profile/vince-calhoun/), and affiliated with the Tri-Institutional Center for Translational Research in Neuroimaging and Data Science [(TReNDS)](https://trendscenter.org/).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research lies broadly in multimodal representation learning, with applications to brain network organization and neuroimaging analysis. I am currently developing scalable, Riemannian geometry–aware, and physics-inspired models for longitudinal multimodal brain connectivity and dynamics.
+More broadly, my interests include graph neural networks (GNNs), multimodal fusion, Riemannian manifold, and theory-informed machine learning, with an emphasis on interpretable and robust modeling for large-scale neuroimaging data.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Feel free to reach me at: bmazumder1[at]student.gsu.edu
+<img width="468" height="234" alt="image" src="https://github.com/user-attachments/assets/3e5b3c15-11a8-46b3-808d-e275c04115e5" />
+
