@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2026-01-01 12:00:00-0400
 inline: true
 related_posts: false
 ---
+Two papers on longitudinal brain connectivity and graph-based representation learning have been accepted in **ICASSP 2026**.
 
-A simple inline announcement.
