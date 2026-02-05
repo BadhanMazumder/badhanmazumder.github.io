@@ -387,13 +387,11 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement",
           title: 'A simple inline announcement.',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-our-paper-on-neural-koopman-fusion-of-structural-functional-connectomes-for-prenatal-drug-exposure-identification-has-been-accepted-in-bhi-2025",
+          section: "News",},{id: "news-our-paper-on-neural-koopman-fusion-of-structural-functional-connectomes-for-prenatal-drug-exposure-identification-has-been-accepted-in-bhi-2025",
           title: 'Our paper on neural Koopman fusion of structural–functional connectomes for prenatal drug exposure...',
+          description: "",
+          section: "News",},{id: "news-our-work-on-kuramoto-guided-graph-learning-for-brain-structure-function-coupling-under-prenatal-drug-exposure-has-been-accepted-in-isbi-2026",
+          title: 'Our work on Kuramoto-guided graph learning for brain structure–function coupling under prenatal drug...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
