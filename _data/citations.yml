@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-02-13'
+  last_updated: '2026-03-02'
 papers:
   kvFzpi8AAAAJ:3fE2CSJIrl8C:
-    citations: 2
+    citations: 4
     title: Analyzing infant cry to detect birth asphyxia using a hybrid CNN and feature extraction approach
     year: '2025'
   kvFzpi8AAAAJ:8k81kl-MbHgC:
-    citations: 28
+    citations: 31
     title: MULTI-MODAL DEEP LEARNING FROM IMAGING GENOMIC DATA FOR SCHIZOPHRENIA CLASSIFICATION
     year: '2024'
   kvFzpi8AAAAJ:IjCSPb-OGe4C:
@@ -15,7 +15,7 @@ papers:
     year: '2020'
   kvFzpi8AAAAJ:KlAtU1dfN6UC:
     citations: 1
-    title: Genetics Encoded Joint Embedding of Multimodal Connectomes with Explainable Graph Neural Network for Schizophrenia Classification
+    title: Genetics encoded joint embedding of multimodal connectomes with explainable graph neural network for schizophrenia classification
     year: '2025'
   kvFzpi8AAAAJ:MXK_kJrjxJIC:
     citations: 5
@@ -30,7 +30,7 @@ papers:
     title: Multimodal deep learning for pediatric mild traumatic brain injury detection
     year: '2023'
   kvFzpi8AAAAJ:WF5omc3nYNoC:
-    citations: 19
+    citations: 21
     title: Biorthogonal wavelet based entropy feature extraction for identification of maize leaf diseases
     year: '2023'
   kvFzpi8AAAAJ:YOwf2qJgpHMC:
@@ -50,7 +50,7 @@ papers:
     title: 'Machine learning-based chronic kidney cancer prediction application: A predictive analytics approach'
     year: '2024'
   kvFzpi8AAAAJ:d1gkVwhDpl0C:
-    citations: 28
+    citations: 29
     title: Wavelet based feature extraction for rice plant disease detection and classification
     year: '2019'
   kvFzpi8AAAAJ:eQOLeE2rZwMC:
@@ -70,6 +70,6 @@ papers:
     title: Wavelet based entropy features for facial expression recognition
     year: '2020'
   kvFzpi8AAAAJ:zYLM7Y9cAGgC:
-    citations: 4
+    citations: 5
     title: Estimation of the number of clusters based on simplical depth
     year: '2020'
