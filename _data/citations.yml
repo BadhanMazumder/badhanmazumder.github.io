@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-03-02'
+  last_updated: '2026-03-18'
 papers:
   kvFzpi8AAAAJ:3fE2CSJIrl8C:
     citations: 4
     title: Analyzing infant cry to detect birth asphyxia using a hybrid CNN and feature extraction approach
     year: '2025'
   kvFzpi8AAAAJ:8k81kl-MbHgC:
-    citations: 31
+    citations: 33
     title: MULTI-MODAL DEEP LEARNING FROM IMAGING GENOMIC DATA FOR SCHIZOPHRENIA CLASSIFICATION
     year: '2024'
   kvFzpi8AAAAJ:IjCSPb-OGe4C:
@@ -50,7 +50,7 @@ papers:
     title: 'Machine learning-based chronic kidney cancer prediction application: A predictive analytics approach'
     year: '2024'
   kvFzpi8AAAAJ:d1gkVwhDpl0C:
-    citations: 29
+    citations: 30
     title: Wavelet based feature extraction for rice plant disease detection and classification
     year: '2019'
   kvFzpi8AAAAJ:eQOLeE2rZwMC:
