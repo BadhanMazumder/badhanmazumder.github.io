@@ -23,7 +23,7 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-Hi, I’m Badhan Mazumder. I’m a Ph.D. candidate in Computer Science at Georgia State University, advised by [Dr. Dong Hye Ye](https://cas.gsu.edu/profile/dong-hye-ye/) and [Dr. Vince D. Calhoun](https://cas.gsu.edu/profile/vince-calhoun/), and affiliated with the Tri-Institutional Center for Translational Research in Neuroimaging and Data Science [(TReNDS)](https://trendscenter.org/).
+Hi, I am Badhan!  I am a Ph.D. candidate in Computer Science at Georgia State University, advised by [Dr. Dong Hye Ye](https://cas.gsu.edu/profile/dong-hye-ye/) and [Dr. Vince D. Calhoun](https://cas.gsu.edu/profile/vince-calhoun/), and affiliated with the Tri-Institutional Center for Translational Research in Neuroimaging and Data Science [(TReNDS)](https://trendscenter.org/).
 
 My research lies broadly in multimodal representation learning, with applications to brain network organization and neuroimaging analysis. I am currently working on developing scalable, Riemannian geometry-aware, and physics-inspired deep models for analyzing longitudinal multimodal brain connectivity and dynamics.
 More broadly, my interests include graph neural networks (GNNs), Riemannian manifold, and theory-informed machine learning, with an emphasis on interpretable and robust modeling for large-scale neuroimaging data.
