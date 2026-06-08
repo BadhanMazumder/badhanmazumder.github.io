@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-05-22'
+  last_updated: '2026-06-08'
 papers:
   kvFzpi8AAAAJ:3fE2CSJIrl8C:
-    citations: 6
+    citations: 7
     title: Analyzing infant cry to detect birth asphyxia using a hybrid CNN and feature extraction approach
     year: '2025'
   kvFzpi8AAAAJ:4TOpqqG69KYC:
@@ -10,7 +10,7 @@ papers:
     title: "Learning Structural\u2013Functional Brain Representations Through Multi\u2013Scale Adaptive Graph Attention For Cognitive Insight"
     year: '2026'
   kvFzpi8AAAAJ:8k81kl-MbHgC:
-    citations: 37
+    citations: 39
     title: MULTI-MODAL DEEP LEARNING FROM IMAGING GENOMIC DATA FOR SCHIZOPHRENIA CLASSIFICATION
     year: '2024'
   kvFzpi8AAAAJ:IjCSPb-OGe4C:
@@ -18,7 +18,7 @@ papers:
     title: Stationary wavelet based energy feature extraction for detection and classification of mammographic microcalcifications
     year: '2020'
   kvFzpi8AAAAJ:KlAtU1dfN6UC:
-    citations: 3
+    citations: 5
     title: Genetics encoded joint embedding of multimodal connectomes with explainable graph neural network for schizophrenia classification
     year: '2025'
   kvFzpi8AAAAJ:M3ejUd6NZC8C:
@@ -30,11 +30,11 @@ papers:
     title: Physics-Guided Multi-view Graph Neural Network for Schizophrenia Classification via Structural-Functional Coupling
     year: '2024'
   kvFzpi8AAAAJ:ULOm3_A8WrAC:
-    citations: 2
+    citations: 3
     title: "NeuroKoop: Neural Koopman Fusion of Structural\u2013Functional Connectomes for Identifying Prenatal Drug Exposure in Adolescents"
     year: '2025'
   kvFzpi8AAAAJ:UebtZRa9Y70C:
-    citations: 7
+    citations: 8
     title: Multimodal deep learning for pediatric mild traumatic brain injury detection
     year: '2023'
   kvFzpi8AAAAJ:WF5omc3nYNoC:
@@ -43,18 +43,18 @@ papers:
     year: '2023'
   kvFzpi8AAAAJ:YOwf2qJgpHMC:
     citations: 2
-    title: 'KOCOBrain: Kuramoto-Guided Graph Network for Uncovering Structure-Function Coupling in Adolescent Prenatal Drug Exposure'
+    title: 'Kocobrain: Kuramoto-guided graph network for uncovering structure-function coupling in adolescent prenatal drug exposure'
     year: '2026'
   kvFzpi8AAAAJ:YsMSGLbcyi4C:
     citations: 1
     title: Septic Fruit's Maturity Inspection and Grade Evaluation Adopting Computer Vision-A Review
     year: '2021'
   kvFzpi8AAAAJ:Zph67rFs4hoC:
-    citations: 5
+    citations: 6
     title: Unified Cross-Modal Attention-Mixer Based Structural-Functional Connectomics Fusion for Neuropsychiatric Disorder Diagnosis
     year: '2025'
   kvFzpi8AAAAJ:_FxGoFyzp5QC:
-    citations: 22
+    citations: 23
     title: 'Machine learning-based chronic kidney cancer prediction application: A predictive analytics approach'
     year: '2024'
   kvFzpi8AAAAJ:d1gkVwhDpl0C:
