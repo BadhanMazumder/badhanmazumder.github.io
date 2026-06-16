@@ -4,5 +4,5 @@ date: 2026-01-22 12:00:00-0400
 inline: true
 related_posts: false
 ---
-Two papers on longitudinal brain connectivity and graph-based representation learning have been accepted in **ICASSP 2026**!
+Our work on longitudinal structure–function coupling using controlled Koopman dynamics for early substance use prediction in adolescents has been accepted to **MICCAI 2026**!
 
