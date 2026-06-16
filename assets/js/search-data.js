@@ -384,7 +384,7 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-our-work-on-kuramoto-guided-graph-learning-for-brain-structure-function-coupling-under-prenatal-drug-exposure-has-been-accepted-in-isbi-2026",
+            },},{id: "news-our-work-on-kuramoto-guided-graph-learning-for-brain-structure-function-coupling-under-prenatal-drug-exposure-has-been-accepted-to-isbi-2026",
           title: 'Our work on Kuramoto-guided graph learning for brain structure–function coupling under prenatal drug...',
           description: "",
           section: "News",},{id: "news-two-papers-on-longitudinal-brain-connectivity-and-graph-based-representation-learning-have-been-accepted-to-icassp-2026",
