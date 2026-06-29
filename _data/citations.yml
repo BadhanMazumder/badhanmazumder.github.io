@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-08'
+  last_updated: '2026-06-29'
 papers:
   kvFzpi8AAAAJ:3fE2CSJIrl8C:
     citations: 7
@@ -26,7 +26,7 @@ papers:
     title: 'NeuroBRIDGE: Behavior-Conditioned Koopman Dynamics with Riemannian Alignment for Early Substance use Initiation Prediction from Longitudinal Functional Connectome'
     year: '2026'
   kvFzpi8AAAAJ:MXK_kJrjxJIC:
-    citations: 8
+    citations: 10
     title: Physics-Guided Multi-view Graph Neural Network for Schizophrenia Classification via Structural-Functional Coupling
     year: '2024'
   kvFzpi8AAAAJ:ULOm3_A8WrAC:
@@ -34,11 +34,11 @@ papers:
     title: "NeuroKoop: Neural Koopman Fusion of Structural\u2013Functional Connectomes for Identifying Prenatal Drug Exposure in Adolescents"
     year: '2025'
   kvFzpi8AAAAJ:UebtZRa9Y70C:
-    citations: 8
+    citations: 9
     title: Multimodal deep learning for pediatric mild traumatic brain injury detection
     year: '2023'
   kvFzpi8AAAAJ:WF5omc3nYNoC:
-    citations: 21
+    citations: 22
     title: Biorthogonal wavelet based entropy feature extraction for identification of maize leaf diseases
     year: '2023'
   kvFzpi8AAAAJ:YOwf2qJgpHMC:
@@ -54,7 +54,7 @@ papers:
     title: Unified Cross-Modal Attention-Mixer Based Structural-Functional Connectomics Fusion for Neuropsychiatric Disorder Diagnosis
     year: '2025'
   kvFzpi8AAAAJ:_FxGoFyzp5QC:
-    citations: 23
+    citations: 24
     title: 'Machine learning-based chronic kidney cancer prediction application: A predictive analytics approach'
     year: '2024'
   kvFzpi8AAAAJ:d1gkVwhDpl0C:
