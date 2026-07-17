@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-10'
+  last_updated: '2026-07-17'
 papers:
   kvFzpi8AAAAJ:3fE2CSJIrl8C:
     citations: 6
@@ -26,7 +26,7 @@ papers:
     title: 'NeuroBRIDGE: Behavior-Conditioned Koopman Dynamics with Riemannian Alignment for Early Substance use Initiation Prediction from Longitudinal Functional Connectome'
     year: '2026'
   kvFzpi8AAAAJ:MXK_kJrjxJIC:
-    citations: 10
+    citations: 9
     title: Physics-Guided Multi-view Graph Neural Network for Schizophrenia Classification via Structural-Functional Coupling
     year: '2024'
   kvFzpi8AAAAJ:ULOm3_A8WrAC:
