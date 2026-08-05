@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2026-01-20 12:00:00-0400
+date: 2026-01-22 12:00:00-0400
 inline: true
 related_posts: false
 ---
-Our work on Kuramoto-guided graph learning for brain structure–function coupling under prenatal drug exposure has been accepted to **ISBI 2026**!
+Two papers on longitudinal brain connectivity and graph-based representation learning have been accepted to **ICASSP 2026**!
