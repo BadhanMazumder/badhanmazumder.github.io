@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-10'
+  last_updated: '2026-08-17'
 papers:
   kvFzpi8AAAAJ:3fE2CSJIrl8C:
     citations: 8
@@ -10,7 +10,7 @@ papers:
     title: "Learning Structural\u2013Functional Brain Representations Through Multi\u2013Scale Adaptive Graph Attention For Cognitive Insight"
     year: '2026'
   kvFzpi8AAAAJ:8k81kl-MbHgC:
-    citations: 41
+    citations: 42
     title: MULTI-MODAL DEEP LEARNING FROM IMAGING GENOMIC DATA FOR SCHIZOPHRENIA CLASSIFICATION
     year: '2024'
   kvFzpi8AAAAJ:IjCSPb-OGe4C:
@@ -18,7 +18,7 @@ papers:
     title: Stationary wavelet based energy feature extraction for detection and classification of mammographic microcalcifications
     year: '2020'
   kvFzpi8AAAAJ:KlAtU1dfN6UC:
-    citations: 5
+    citations: 6
     title: Genetics encoded joint embedding of multimodal connectomes with explainable graph neural network for schizophrenia classification
     year: '2025'
   kvFzpi8AAAAJ:M3ejUd6NZC8C:
@@ -26,15 +26,15 @@ papers:
     title: 'NeuroBRIDGE: Behavior-Conditioned Koopman Dynamics with Riemannian Alignment for Early Substance use Initiation Prediction from Longitudinal Functional Connectome'
     year: '2026'
   kvFzpi8AAAAJ:MXK_kJrjxJIC:
-    citations: 10
+    citations: 12
     title: Physics-Guided Multi-view Graph Neural Network for Schizophrenia Classification via Structural-Functional Coupling
     year: '2024'
   kvFzpi8AAAAJ:ULOm3_A8WrAC:
-    citations: 3
+    citations: 4
     title: "Neurokoop: Neural koopman fusion of structural\u2013functional connectomes for identifying prenatal drug exposure in adolescents"
     year: '2025'
   kvFzpi8AAAAJ:UebtZRa9Y70C:
-    citations: 10
+    citations: 11
     title: Multimodal deep learning for pediatric mild traumatic brain injury detection
     year: '2023'
   kvFzpi8AAAAJ:WF5omc3nYNoC:
@@ -42,7 +42,7 @@ papers:
     title: Biorthogonal wavelet based entropy feature extraction for identification of maize leaf diseases
     year: '2023'
   kvFzpi8AAAAJ:YOwf2qJgpHMC:
-    citations: 2
+    citations: 3
     title: 'Kocobrain: Kuramoto-guided graph network for uncovering structure-function coupling in adolescent prenatal drug exposure'
     year: '2026'
   kvFzpi8AAAAJ:YsMSGLbcyi4C:
@@ -54,11 +54,11 @@ papers:
     title: Unified cross-modal attention-mixer based structural-functional connectomics fusion for neuropsychiatric disorder diagnosis
     year: '2025'
   kvFzpi8AAAAJ:_FxGoFyzp5QC:
-    citations: 23
+    citations: 24
     title: 'Machine learning-based chronic kidney cancer prediction application: A predictive analytics approach'
     year: '2024'
   kvFzpi8AAAAJ:d1gkVwhDpl0C:
-    citations: 33
+    citations: 32
     title: Wavelet based feature extraction for rice plant disease detection and classification
     year: '2019'
   kvFzpi8AAAAJ:eQOLeE2rZwMC:
@@ -73,6 +73,10 @@ papers:
     citations: 4
     title: Non-subsampled shearlet entropy and logistic regression based multiple sclerosis detection
     year: '2020'
+  kvFzpi8AAAAJ:qxL8FJ1GzNcC:
+    citations: 0
+    title: "Latent Koopman Dynamics of Brain Structure\u2013Function Coupling for Identifying Adolescent Prenatal Drug Exposure"
+    year: '2026'
   kvFzpi8AAAAJ:u-x6o8ySG0sC:
     citations: 6
     title: Wavelet based entropy features for facial expression recognition
